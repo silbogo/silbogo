@@ -108,7 +108,7 @@
 ## 🚀 Visit Silbo Money
 
 <div align="center">
-  <a href="https://www.silbo.money">
+  <a href="https://silbo.money">
     <img src="https://img.shields.io/badge/Innovative_payment_solution_for_your_business-e5fc0f?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Visit Silbo Money"/>
   </a>
   
